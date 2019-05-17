@@ -1,6 +1,9 @@
 # Object detecting using AForge dot net
 
-This program can detecting object with measuring distance and degree, using C# with AForge .net framework.
+This program can detecting object with measuring distance and degree(just one camera), using C# with AForge .net framework.
+
+For this project, I've ref. to follow url:
+https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/
 
 The main method for color object detection by Blob counter algorithm.
 If you using this method, then you can detecting as follows:
